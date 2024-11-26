@@ -1,0 +1,8 @@
+name: docker_practice
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scikit-learn
+prefix: /Users/farhan/miniforge3/envs/docker_practice
